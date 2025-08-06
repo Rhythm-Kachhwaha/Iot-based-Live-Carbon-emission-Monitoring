@@ -1,5 +1,12 @@
 # Smart Energy Dashboard - Complete Setup Guide
 
+### 0. Hardware setup
+Energy meter
+![Energy meter & MCU hardware](assets/Energy_Meter.jpg)
+ATmega328PB
+![AVR ATmega](assets/ATmega328PB.jpg)
+Simcom Module
+![Simcom module](assets/simcom.jpg)
 
 
 ### 1. Project Structure Setup

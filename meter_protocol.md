@@ -72,4 +72,3 @@ CC 02 07 1E 05 07 0B 0F DD
 
 **Maintainer:** [Rhythm Kachhwaha](https://github.com/Rhythm-Kachhwaha)  
 **Project:** [IoT-based Live Carbon Emission Monitoring](https://github.com/Rhythm-Kachhwaha/Iot-based-Live-Carbon-emission-Monitoring)
-

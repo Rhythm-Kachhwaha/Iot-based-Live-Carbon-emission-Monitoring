@@ -1,0 +1,9 @@
+# backend/requirements.txt - Flask Backend Dependencies
+Flask==3.0.0
+requests==2.31.0
+sqlite3  # Built-in with Python
+pandas==2.1.4
+python-dotenv==1.0.0
+flask-cors==4.0.0
+flask-limiter==3.5.0
+gunicorn==21.2.0  # For production deployment

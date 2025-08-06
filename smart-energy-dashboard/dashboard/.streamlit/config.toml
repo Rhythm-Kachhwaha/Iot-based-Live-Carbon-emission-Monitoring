@@ -1,0 +1,39 @@
+# dashboard/.streamlit/config.toml - Green Theme Configuration
+[theme]
+base = "dark"
+primaryColor = "#09ab3b"           # Green accent color for buttons/sliders
+backgroundColor = "#0f2315"        # Dark green background
+secondaryBackgroundColor = "#1a3e25"  # Sidebar and containers
+textColor = "#e2f4e6"             # Light green text
+
+[server]
+port = 8501
+address = "0.0.0.0"
+headless = false
+runOnSave = false
+allowRunOnSave = false
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[client]
+caching = true
+displayEnabled = true
+showErrorDetails = true
+
+[runner]
+magicEnabled = true
+installTracer = false
+fixMatplotlib = true
+
+[logger]
+level = "info"
+messageFormat = "[%(levelname)s] %(message)s"
+
+[global]
+developmentMode = false
+dataFrameSerialization = "legacy"
+minCachedFuncSize = 0.1
+maxCachedFuncSize = 100.0

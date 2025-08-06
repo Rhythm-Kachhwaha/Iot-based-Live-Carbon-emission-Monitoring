@@ -1,0 +1,11 @@
+# dashboard/requirements.txt - Streamlit Dashboard Dependencies
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.17.0
+requests==2.31.0
+sqlite3  # Built-in with Python
+numpy==1.25.2
+python-dotenv==1.0.0
+streamlit-autorefresh==0.0.1
+streamlit-aggrid==0.3.4
+pillow==10.1.0

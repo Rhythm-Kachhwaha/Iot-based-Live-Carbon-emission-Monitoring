@@ -1,0 +1,672 @@
+2025-07-28 03:28:30,548 - database - INFO - Database initialized successfully
+2025-07-28 03:28:30,548 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.62:8080
+2025-07-28 03:28:30,548 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 14:56:40,042 - database - INFO - Database initialized successfully
+2025-07-28 14:56:40,069 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.62:8080
+2025-07-28 14:56:40,070 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 14:57:12,532 - database - INFO - Database initialized successfully
+2025-07-28 14:57:12,552 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.62:8080
+2025-07-28 14:57:12,552 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 14:57:39,895 - database - INFO - Database initialized successfully
+2025-07-28 14:57:39,925 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.62:8080
+2025-07-28 14:57:39,925 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 14:57:50,062 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:57:50] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:57:52,125 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:57:52] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:57:54,172 - database - INFO - Retrieved 0 readings
+2025-07-28 14:57:54,173 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:57:54] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 14:58:22,988 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:22] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:58:23,779 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:23] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:58:25,038 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:25] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:58:25,859 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:25] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:58:27,766 - database - INFO - Retrieved 0 readings
+2025-07-28 14:58:27,766 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:27] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 14:58:30,591 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:30] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:58:30,979 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:30] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:58:32,628 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:32] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:58:33,022 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:58:35,516 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:35] "GET /health HTTP/1.1" 200 -
+2025-07-28 14:58:37,579 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:37] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 14:58:39,628 - database - INFO - Retrieved 0 readings
+2025-07-28 14:58:39,629 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 14:58:39] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:21:47,387 - database - INFO - Database initialized successfully
+2025-07-28 15:21:47,416 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.18:8080
+2025-07-28 15:21:47,416 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 15:23:17,070 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:23:17] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:23:19,098 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:23:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:23:21,133 - database - INFO - Retrieved 0 readings
+2025-07-28 15:23:21,133 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:23:21] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:24:45,930 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:24:45] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:24:47,990 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:24:47] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:24:50,064 - database - INFO - Retrieved 0 readings
+2025-07-28 15:24:50,064 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:24:50] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:25:22,184 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:25:22] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:25:24,220 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:25:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:25:26,280 - database - INFO - Retrieved 0 readings
+2025-07-28 15:25:26,281 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:25:26] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:25:58,400 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:25:58] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:26:00,455 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:00] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:26:02,519 - database - INFO - Retrieved 0 readings
+2025-07-28 15:26:02,520 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:02] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:26:20,911 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:26:20,912 - __main__ - INFO - Method: GET
+2025-07-28 15:26:20,912 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=230.5&c=8.75&pf=0.92&l=2.01560&k=1252.75&f=50.2&d=28-07-2025%2013:42:00&r=0&s=atmega328pb
+2025-07-28 15:26:20,913 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:26:20,913 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:26:20,914 - __main__ - INFO - Raw params: {'v': '230.5', 'c': '8.75', 'pf': '0.92', 'l': '2.01560', 'k': '1252.75', 'f': '50.2', 'd': '28-07-2025 13:42:00', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:26:20,917 - __main__ - INFO - Data validation successful
+2025-07-28 15:26:20,922 - database - INFO - Inserted reading with ID: 1
+2025-07-28 15:26:20,923 - __main__ - INFO - Data saved successfully with ID: 1
+2025-07-28 15:26:20,923 - __main__ - INFO - Request processed successfully
+2025-07-28 15:26:20,924 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:20] "GET /meter?v=230.5&c=8.75&pf=0.92&l=2.01560&k=1252.75&f=50.2&d=28-07-2025%2013:42:00&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:26:28,758 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:28] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:26:29,483 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:29] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:26:30,831 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:30] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:26:31,560 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:31] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:26:33,610 - database - INFO - Retrieved 1 readings
+2025-07-28 15:26:33,611 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:26:33] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:27:05,763 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:05] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:27:07,820 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:07] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:27:09,878 - database - INFO - Retrieved 1 readings
+2025-07-28 15:27:09,879 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:09] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:27:41,995 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:41] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:27:44,055 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:27:46,130 - database - INFO - Retrieved 1 readings
+2025-07-28 15:27:46,130 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:46] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:27:55,564 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:55] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:27:56,663 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:56] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:27:57,642 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:57] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:27:58,738 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:27:58] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:28:00,785 - database - INFO - Retrieved 1 readings
+2025-07-28 15:28:00,785 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:00] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:28:02,961 - database - INFO - Retrieved 1 readings
+2025-07-28 15:28:02,962 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:02] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:28:06,717 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:28:06,718 - __main__ - INFO - Method: GET
+2025-07-28 15:28:06,718 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=252.73&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:24:52&s=atmega328pb
+2025-07-28 15:28:06,718 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:28:06,718 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:28:06,719 - __main__ - INFO - Raw params: {'v': '252.73', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:24:52', 's': 'atmega328pb'}
+2025-07-28 15:28:06,720 - __main__ - INFO - Data validation successful
+2025-07-28 15:28:06,724 - database - INFO - Inserted reading with ID: 2
+2025-07-28 15:28:06,725 - __main__ - INFO - Data saved successfully with ID: 2
+2025-07-28 15:28:06,725 - __main__ - INFO - Request processed successfully
+2025-07-28 15:28:06,726 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:06] "GET /meter?v=252.73&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:24:52&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:28:15,421 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:28:15,422 - __main__ - INFO - Method: GET
+2025-07-28 15:28:15,422 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.06&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:02&s=atmega328pb
+2025-07-28 15:28:15,423 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:28:15,424 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:28:15,424 - __main__ - INFO - Raw params: {'v': '253.06', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:25:02', 's': 'atmega328pb'}
+2025-07-28 15:28:15,426 - __main__ - INFO - Data validation successful
+2025-07-28 15:28:15,431 - database - INFO - Inserted reading with ID: 3
+2025-07-28 15:28:15,431 - __main__ - INFO - Data saved successfully with ID: 3
+2025-07-28 15:28:15,432 - __main__ - INFO - Request processed successfully
+2025-07-28 15:28:15,432 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:15] "GET /meter?v=253.06&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:02&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:28:24,657 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:28:24,658 - __main__ - INFO - Method: GET
+2025-07-28 15:28:24,658 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.23&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:11&s=atmega328pb
+2025-07-28 15:28:24,659 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:28:24,659 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:28:24,660 - __main__ - INFO - Raw params: {'v': '253.23', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:25:11', 's': 'atmega328pb'}
+2025-07-28 15:28:24,661 - __main__ - INFO - Data validation successful
+2025-07-28 15:28:24,669 - database - INFO - Inserted reading with ID: 4
+2025-07-28 15:28:24,669 - __main__ - INFO - Data saved successfully with ID: 4
+2025-07-28 15:28:24,670 - __main__ - INFO - Request processed successfully
+2025-07-28 15:28:24,670 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:24] "GET /meter?v=253.23&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:11&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:28:40,221 - database - INFO - Retrieved 4 readings
+2025-07-28 15:28:40,222 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:40] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:28:51,691 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:28:51,691 - __main__ - INFO - Method: GET
+2025-07-28 15:28:51,691 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.21&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:37&s=atmega328pb
+2025-07-28 15:28:51,692 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:28:51,692 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:28:51,692 - __main__ - INFO - Raw params: {'v': '253.21', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:25:37', 's': 'atmega328pb'}
+2025-07-28 15:28:51,694 - __main__ - INFO - Data validation successful
+2025-07-28 15:28:51,699 - database - INFO - Inserted reading with ID: 5
+2025-07-28 15:28:51,699 - __main__ - INFO - Data saved successfully with ID: 5
+2025-07-28 15:28:51,700 - __main__ - INFO - Request processed successfully
+2025-07-28 15:28:51,700 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:28:51] "GET /meter?v=253.21&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:37&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:00,904 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:00,905 - __main__ - INFO - Method: GET
+2025-07-28 15:29:00,905 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.20&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:47&s=atmega328pb
+2025-07-28 15:29:00,905 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:00,906 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:00,906 - __main__ - INFO - Raw params: {'v': '253.20', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:25:47', 's': 'atmega328pb'}
+2025-07-28 15:29:00,908 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:00,913 - database - INFO - Inserted reading with ID: 6
+2025-07-28 15:29:00,914 - __main__ - INFO - Data saved successfully with ID: 6
+2025-07-28 15:29:00,914 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:00,915 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:00] "GET /meter?v=253.20&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:47&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:10,531 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:10,532 - __main__ - INFO - Method: GET
+2025-07-28 15:29:10,532 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.23&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:56&s=atmega328pb
+2025-07-28 15:29:10,533 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:10,533 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:10,534 - __main__ - INFO - Raw params: {'v': '253.23', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:25:56', 's': 'atmega328pb'}
+2025-07-28 15:29:10,536 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:10,541 - database - INFO - Inserted reading with ID: 7
+2025-07-28 15:29:10,541 - __main__ - INFO - Data saved successfully with ID: 7
+2025-07-28 15:29:10,542 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:10,542 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:10] "GET /meter?v=253.23&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:25:56&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:20,306 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:20,307 - __main__ - INFO - Method: GET
+2025-07-28 15:29:20,308 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.18&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:06&s=atmega328pb
+2025-07-28 15:29:20,308 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:20,309 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:20,309 - __main__ - INFO - Raw params: {'v': '253.18', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:06', 's': 'atmega328pb'}
+2025-07-28 15:29:20,312 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:20,316 - database - INFO - Inserted reading with ID: 8
+2025-07-28 15:29:20,317 - __main__ - INFO - Data saved successfully with ID: 8
+2025-07-28 15:29:20,317 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:20,317 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:20] "GET /meter?v=253.18&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:06&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:30,397 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:30,397 - __main__ - INFO - Method: GET
+2025-07-28 15:29:30,398 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=252.24&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:15&s=atmega328pb
+2025-07-28 15:29:30,398 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:30,398 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:30,399 - __main__ - INFO - Raw params: {'v': '252.24', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:15', 's': 'atmega328pb'}
+2025-07-28 15:29:30,402 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:30,406 - database - INFO - Inserted reading with ID: 9
+2025-07-28 15:29:30,406 - __main__ - INFO - Data saved successfully with ID: 9
+2025-07-28 15:29:30,407 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:30,407 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:30] "GET /meter?v=252.24&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:15&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:36,818 - database - INFO - Retrieved 9 readings
+2025-07-28 15:29:36,819 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:36] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:29:37,769 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:37,769 - __main__ - INFO - Method: GET
+2025-07-28 15:29:37,769 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=252.53&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:24&s=atmega328pb
+2025-07-28 15:29:37,770 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:37,770 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:37,770 - __main__ - INFO - Raw params: {'v': '252.53', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:24', 's': 'atmega328pb'}
+2025-07-28 15:29:37,772 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:37,776 - database - INFO - Inserted reading with ID: 10
+2025-07-28 15:29:37,776 - __main__ - INFO - Data saved successfully with ID: 10
+2025-07-28 15:29:37,777 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:37,777 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:37] "GET /meter?v=252.53&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:24&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:46,965 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:46,965 - __main__ - INFO - Method: GET
+2025-07-28 15:29:46,965 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=252.78&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:33&s=atmega328pb
+2025-07-28 15:29:46,965 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:46,966 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:46,966 - __main__ - INFO - Raw params: {'v': '252.78', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:33', 's': 'atmega328pb'}
+2025-07-28 15:29:46,968 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:46,973 - database - INFO - Inserted reading with ID: 11
+2025-07-28 15:29:46,973 - __main__ - INFO - Data saved successfully with ID: 11
+2025-07-28 15:29:46,973 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:46,974 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:46] "GET /meter?v=252.78&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:33&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:29:56,197 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:29:56,198 - __main__ - INFO - Method: GET
+2025-07-28 15:29:56,198 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.40&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:42&s=atmega328pb
+2025-07-28 15:29:56,198 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:29:56,199 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:29:56,199 - __main__ - INFO - Raw params: {'v': '253.40', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:42', 's': 'atmega328pb'}
+2025-07-28 15:29:56,202 - __main__ - INFO - Data validation successful
+2025-07-28 15:29:56,206 - database - INFO - Inserted reading with ID: 12
+2025-07-28 15:29:56,206 - __main__ - INFO - Data saved successfully with ID: 12
+2025-07-28 15:29:56,207 - __main__ - INFO - Request processed successfully
+2025-07-28 15:29:56,207 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:29:56] "GET /meter?v=253.40&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:42&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:00,270 - database - INFO - Retrieved 12 readings
+2025-07-28 15:30:00,271 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:00] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:30:05,726 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:05,726 - __main__ - INFO - Method: GET
+2025-07-28 15:30:05,726 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.38&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:52&s=atmega328pb
+2025-07-28 15:30:05,726 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:05,726 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:05,727 - __main__ - INFO - Raw params: {'v': '253.38', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:26:52', 's': 'atmega328pb'}
+2025-07-28 15:30:05,729 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:05,733 - database - INFO - Inserted reading with ID: 13
+2025-07-28 15:30:05,733 - __main__ - INFO - Data saved successfully with ID: 13
+2025-07-28 15:30:05,733 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:05,734 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:05] "GET /meter?v=253.38&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:26:52&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:14,607 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:14,607 - __main__ - INFO - Method: GET
+2025-07-28 15:30:14,608 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.24&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:27:01&s=atmega328pb
+2025-07-28 15:30:14,608 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:14,608 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:14,609 - __main__ - INFO - Raw params: {'v': '253.24', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:27:01', 's': 'atmega328pb'}
+2025-07-28 15:30:14,611 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:14,617 - database - INFO - Inserted reading with ID: 14
+2025-07-28 15:30:14,617 - __main__ - INFO - Data saved successfully with ID: 14
+2025-07-28 15:30:14,618 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:14,618 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:14] "GET /meter?v=253.24&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:27:01&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:23,912 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:23,913 - __main__ - INFO - Method: GET
+2025-07-28 15:30:23,914 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.64&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:27:10&s=atmega328pb
+2025-07-28 15:30:23,914 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:23,914 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:23,915 - __main__ - INFO - Raw params: {'v': '253.64', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:27:10', 's': 'atmega328pb'}
+2025-07-28 15:30:23,916 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:23,921 - database - INFO - Inserted reading with ID: 15
+2025-07-28 15:30:23,921 - __main__ - INFO - Data saved successfully with ID: 15
+2025-07-28 15:30:23,921 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:23,922 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:23] "GET /meter?v=253.64&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.0&d=28-07-25%2015:27:10&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:33,203 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:33,203 - __main__ - INFO - Method: GET
+2025-07-28 15:30:33,203 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.77&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:19&s=atmega328pb
+2025-07-28 15:30:33,203 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:33,204 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:33,205 - __main__ - INFO - Raw params: {'v': '253.77', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.1', 'd': '28-07-25 15:27:19', 's': 'atmega328pb'}
+2025-07-28 15:30:33,207 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:33,212 - database - INFO - Inserted reading with ID: 16
+2025-07-28 15:30:33,212 - __main__ - INFO - Data saved successfully with ID: 16
+2025-07-28 15:30:33,213 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:33,213 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:33] "GET /meter?v=253.77&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:19&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:42,304 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:42,305 - __main__ - INFO - Method: GET
+2025-07-28 15:30:42,305 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.74&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:28&s=atmega328pb
+2025-07-28 15:30:42,305 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:42,306 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:42,306 - __main__ - INFO - Raw params: {'v': '253.74', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.1', 'd': '28-07-25 15:27:28', 's': 'atmega328pb'}
+2025-07-28 15:30:42,309 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:42,313 - database - INFO - Inserted reading with ID: 17
+2025-07-28 15:30:42,313 - __main__ - INFO - Data saved successfully with ID: 17
+2025-07-28 15:30:42,314 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:42,314 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:42] "GET /meter?v=253.74&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:28&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:30:51,486 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:30:51,487 - __main__ - INFO - Method: GET
+2025-07-28 15:30:51,487 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.95&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:38&s=atmega328pb
+2025-07-28 15:30:51,488 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:30:51,489 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:30:51,489 - __main__ - INFO - Raw params: {'v': '253.95', 'c': '0.000', 'pf': '1.00', 'l': '0.00000', 'k': '12.66', 'f': '50.1', 'd': '28-07-25 15:27:38', 's': 'atmega328pb'}
+2025-07-28 15:30:51,491 - __main__ - INFO - Data validation successful
+2025-07-28 15:30:51,495 - database - INFO - Inserted reading with ID: 18
+2025-07-28 15:30:51,495 - __main__ - INFO - Data saved successfully with ID: 18
+2025-07-28 15:30:51,495 - __main__ - INFO - Request processed successfully
+2025-07-28 15:30:51,496 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:30:51] "GET /meter?v=253.95&c=0.000&pf=1.00&l=0.00000&k=12.66&f=50.1&d=28-07-25%2015:27:38&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:31:02,028 - database - INFO - Retrieved 18 readings
+2025-07-28 15:31:02,028 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:31:02] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:32:00,734 - database - INFO - Retrieved 18 readings
+2025-07-28 15:32:00,735 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:00] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:32:21,847 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:32:21,847 - __main__ - INFO - Method: GET
+2025-07-28 15:32:21,848 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=228.7&c=7.52&pf=0.91&l=1.945&k=1253.20&f=50.1&d=28-07-2025%2013:44:10&r=0&s=atmega328pb
+2025-07-28 15:32:21,848 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:32:21,848 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:32:21,848 - __main__ - INFO - Raw params: {'v': '228.7', 'c': '7.52', 'pf': '0.91', 'l': '1.945', 'k': '1253.20', 'f': '50.1', 'd': '28-07-2025 13:44:10', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:32:21,851 - __main__ - INFO - Data validation successful
+2025-07-28 15:32:21,855 - database - INFO - Inserted reading with ID: 19
+2025-07-28 15:32:21,856 - __main__ - INFO - Data saved successfully with ID: 19
+2025-07-28 15:32:21,857 - __main__ - INFO - Request processed successfully
+2025-07-28 15:32:21,857 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:21] "GET /meter?v=228.7&c=7.52&pf=0.91&l=1.945&k=1253.20&f=50.1&d=28-07-2025%2013:44:10&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:32:25,018 - database - INFO - Retrieved 19 readings
+2025-07-28 15:32:25,019 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:25] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:32:32,450 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:32:32,451 - __main__ - INFO - Method: GET
+2025-07-28 15:32:32,451 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=231.4&c=8.23&pf=0.93&l=2.105&k=1253.65&f=50.3&d=28-07-2025%2013:44:20&r=0&s=atmega328pb
+2025-07-28 15:32:32,451 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:32:32,451 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:32:32,452 - __main__ - INFO - Raw params: {'v': '231.4', 'c': '8.23', 'pf': '0.93', 'l': '2.105', 'k': '1253.65', 'f': '50.3', 'd': '28-07-2025 13:44:20', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:32:32,454 - __main__ - INFO - Data validation successful
+2025-07-28 15:32:32,458 - database - INFO - Inserted reading with ID: 20
+2025-07-28 15:32:32,458 - __main__ - INFO - Data saved successfully with ID: 20
+2025-07-28 15:32:32,458 - __main__ - INFO - Request processed successfully
+2025-07-28 15:32:32,459 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:32] "GET /meter?v=231.4&c=8.23&pf=0.93&l=2.105&k=1253.65&f=50.3&d=28-07-2025%2013:44:20&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:32:32,470 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:32] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:32:34,539 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:32:36,575 - database - INFO - Retrieved 20 readings
+2025-07-28 15:32:36,576 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:36] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:32:41,050 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:32:41,050 - __main__ - INFO - Method: GET
+2025-07-28 15:32:41,050 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=229.9&c=7.85&pf=0.89&l=1.995&k=1254.10&f=50.0&d=28-07-2025%2013:44:30&r=0&s=atmega328pb
+2025-07-28 15:32:41,050 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:32:41,051 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:32:41,051 - __main__ - INFO - Raw params: {'v': '229.9', 'c': '7.85', 'pf': '0.89', 'l': '1.995', 'k': '1254.10', 'f': '50.0', 'd': '28-07-2025 13:44:30', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:32:41,054 - __main__ - INFO - Data validation successful
+2025-07-28 15:32:41,058 - database - INFO - Inserted reading with ID: 21
+2025-07-28 15:32:41,058 - __main__ - INFO - Data saved successfully with ID: 21
+2025-07-28 15:32:41,059 - __main__ - INFO - Request processed successfully
+2025-07-28 15:32:41,060 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:41] "GET /meter?v=229.9&c=7.85&pf=0.89&l=1.995&k=1254.10&f=50.0&d=28-07-2025%2013:44:30&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:32:48,629 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:32:48,629 - __main__ - INFO - Method: GET
+2025-07-28 15:32:48,629 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=230.2&c=8.02&pf=0.92&l=2.030&k=1254.55&f=50.2&d=28-07-2025%2013:44:40&r=0&s=atmega328pb
+2025-07-28 15:32:48,629 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:32:48,630 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:32:48,630 - __main__ - INFO - Raw params: {'v': '230.2', 'c': '8.02', 'pf': '0.92', 'l': '2.030', 'k': '1254.55', 'f': '50.2', 'd': '28-07-2025 13:44:40', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:32:48,633 - __main__ - INFO - Data validation successful
+2025-07-28 15:32:48,638 - database - INFO - Inserted reading with ID: 22
+2025-07-28 15:32:48,638 - __main__ - INFO - Data saved successfully with ID: 22
+2025-07-28 15:32:48,638 - __main__ - INFO - Request processed successfully
+2025-07-28 15:32:48,639 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:48] "GET /meter?v=230.2&c=8.02&pf=0.92&l=2.030&k=1254.55&f=50.2&d=28-07-2025%2013:44:40&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:32:57,743 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:32:57,743 - __main__ - INFO - Method: GET
+2025-07-28 15:32:57,743 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=232.0&c=8.40&pf=0.94&l=2.170&k=1255.00&f=50.4&d=28-07-2025%2013:44:50&r=0&s=atmega328pb
+2025-07-28 15:32:57,744 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:32:57,744 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-07-28 15:32:57,744 - __main__ - INFO - Raw params: {'v': '232.0', 'c': '8.40', 'pf': '0.94', 'l': '2.170', 'k': '1255.00', 'f': '50.4', 'd': '28-07-2025 13:44:50', 'r': '0', 's': 'atmega328pb'}
+2025-07-28 15:32:57,746 - __main__ - INFO - Data validation successful
+2025-07-28 15:32:57,751 - database - INFO - Inserted reading with ID: 23
+2025-07-28 15:32:57,751 - __main__ - INFO - Data saved successfully with ID: 23
+2025-07-28 15:32:57,752 - __main__ - INFO - Request processed successfully
+2025-07-28 15:32:57,752 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:32:57] "GET /meter?v=232.0&c=8.40&pf=0.94&l=2.170&k=1255.00&f=50.4&d=28-07-2025%2013:44:50&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:33:45,147 - database - INFO - Retrieved 23 readings
+2025-07-28 15:33:45,148 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:33:45] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:34:13,007 - database - INFO - Retrieved 23 readings
+2025-07-28 15:34:13,008 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:34:13] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:34:32,501 - database - INFO - Retrieved 23 readings
+2025-07-28 15:34:32,502 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:34:32] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:34:54,020 - database - INFO - Retrieved 23 readings
+2025-07-28 15:34:54,021 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:34:54] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:35:06,346 - database - INFO - Retrieved 23 readings
+2025-07-28 15:35:06,347 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:35:06] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:35:18,646 - database - INFO - Retrieved 23 readings
+2025-07-28 15:35:18,648 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:35:18] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:35:30,962 - database - INFO - Retrieved 23 readings
+2025-07-28 15:35:30,963 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:35:30] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:35:43,255 - database - INFO - Retrieved 23 readings
+2025-07-28 15:35:43,256 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:35:43] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:35:55,574 - database - INFO - Retrieved 23 readings
+2025-07-28 15:35:55,575 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:35:55] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:36:07,901 - database - INFO - Retrieved 23 readings
+2025-07-28 15:36:07,902 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:36:07] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:36:20,236 - database - INFO - Retrieved 23 readings
+2025-07-28 15:36:20,237 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:36:20] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:36:32,558 - database - INFO - Retrieved 23 readings
+2025-07-28 15:36:32,560 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:36:32] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:36:45,002 - database - INFO - Retrieved 23 readings
+2025-07-28 15:36:45,003 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:36:45] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:36:57,296 - database - INFO - Retrieved 23 readings
+2025-07-28 15:36:57,297 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:36:57] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:37:09,585 - database - INFO - Retrieved 23 readings
+2025-07-28 15:37:09,586 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:37:09] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:37:21,883 - database - INFO - Retrieved 23 readings
+2025-07-28 15:37:21,884 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:37:21] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:37:34,186 - database - INFO - Retrieved 23 readings
+2025-07-28 15:37:34,187 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:37:34] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:37:46,474 - database - INFO - Retrieved 23 readings
+2025-07-28 15:37:46,475 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:37:46] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:37:58,756 - database - INFO - Retrieved 23 readings
+2025-07-28 15:37:58,756 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:37:58] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:38:11,100 - database - INFO - Retrieved 23 readings
+2025-07-28 15:38:11,101 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:38:11] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:38:23,375 - database - INFO - Retrieved 23 readings
+2025-07-28 15:38:23,376 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:38:23] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:38:35,643 - database - INFO - Retrieved 23 readings
+2025-07-28 15:38:35,644 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:38:35] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:38:47,933 - database - INFO - Retrieved 23 readings
+2025-07-28 15:38:47,934 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:38:47] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:39:00,232 - database - INFO - Retrieved 23 readings
+2025-07-28 15:39:00,232 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:39:00] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:39:12,521 - database - INFO - Retrieved 23 readings
+2025-07-28 15:39:12,522 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:39:12] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:39:24,812 - database - INFO - Retrieved 23 readings
+2025-07-28 15:39:24,813 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:39:24] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:39:37,108 - database - INFO - Retrieved 23 readings
+2025-07-28 15:39:37,109 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:39:37] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:39:49,403 - database - INFO - Retrieved 23 readings
+2025-07-28 15:39:49,403 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:39:49] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:40:01,687 - database - INFO - Retrieved 23 readings
+2025-07-28 15:40:01,688 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:40:01] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:42:49,488 - database - INFO - Retrieved 23 readings
+2025-07-28 15:42:49,489 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:42:49] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:50:18,377 - database - INFO - Retrieved 23 readings
+2025-07-28 15:50:18,379 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:18] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:50:26,549 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:50:26,549 - __main__ - INFO - Method: GET
+2025-07-28 15:50:26,549 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=0.00&c=0.000&pf=0.00&l=0.00000&k=12.66&f=0.0&d=00-00-00%2000:00:00&s=atmega328pb
+2025-07-28 15:50:26,550 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:50:26,550 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:50:26,550 - __main__ - INFO - Raw params: {'v': '0.00', 'c': '0.000', 'pf': '0.00', 'l': '0.00000', 'k': '12.66', 'f': '0.0', 'd': '00-00-00 00:00:00', 's': 'atmega328pb'}
+2025-07-28 15:50:26,553 - __main__ - ERROR - Invalid data format: Frequency 0.0Hz out of range (45-65Hz)
+2025-07-28 15:50:26,553 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:26] "[31m[1mGET /meter?v=0.00&c=0.000&pf=0.00&l=0.00000&k=12.66&f=0.0&d=00-00-00%2000:00:00&s=atmega328pb HTTP/1.1[0m" 400 -
+2025-07-28 15:50:30,685 - database - INFO - Retrieved 23 readings
+2025-07-28 15:50:30,686 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:30] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:50:33,861 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:50:33,862 - __main__ - INFO - Method: GET
+2025-07-28 15:50:33,862 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=252.96&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:19&s=atmega328pb
+2025-07-28 15:50:33,863 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:50:33,863 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:50:33,864 - __main__ - INFO - Raw params: {'v': '252.96', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:47:19', 's': 'atmega328pb'}
+2025-07-28 15:50:33,866 - __main__ - INFO - Data validation successful
+2025-07-28 15:50:33,870 - database - INFO - Inserted reading with ID: 24
+2025-07-28 15:50:33,871 - __main__ - INFO - Data saved successfully with ID: 24
+2025-07-28 15:50:33,871 - __main__ - INFO - Request processed successfully
+2025-07-28 15:50:33,871 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:33] "GET /meter?v=252.96&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:19&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:50:43,060 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:50:43,060 - __main__ - INFO - Method: GET
+2025-07-28 15:50:43,061 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.03&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:29&s=atmega328pb
+2025-07-28 15:50:43,061 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:50:43,061 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:50:43,062 - __main__ - INFO - Raw params: {'v': '253.03', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:47:29', 's': 'atmega328pb'}
+2025-07-28 15:50:43,064 - __main__ - INFO - Data validation successful
+2025-07-28 15:50:43,069 - database - INFO - Inserted reading with ID: 25
+2025-07-28 15:50:43,069 - __main__ - INFO - Data saved successfully with ID: 25
+2025-07-28 15:50:43,070 - __main__ - INFO - Request processed successfully
+2025-07-28 15:50:43,070 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:43] "GET /meter?v=253.03&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:29&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:50:46,268 - database - INFO - Retrieved 25 readings
+2025-07-28 15:50:46,269 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:46] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:50:52,271 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:50:52,272 - __main__ - INFO - Method: GET
+2025-07-28 15:50:52,272 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.02&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:38&s=atmega328pb
+2025-07-28 15:50:52,273 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:50:52,273 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:50:52,273 - __main__ - INFO - Raw params: {'v': '253.02', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:47:38', 's': 'atmega328pb'}
+2025-07-28 15:50:52,275 - __main__ - INFO - Data validation successful
+2025-07-28 15:50:52,278 - database - INFO - Inserted reading with ID: 26
+2025-07-28 15:50:52,278 - __main__ - INFO - Data saved successfully with ID: 26
+2025-07-28 15:50:52,279 - __main__ - INFO - Request processed successfully
+2025-07-28 15:50:52,280 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:52] "GET /meter?v=253.02&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:38&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:50:59,159 - database - INFO - Retrieved 26 readings
+2025-07-28 15:50:59,160 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:50:59] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:51:01,503 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:01,503 - __main__ - INFO - Method: GET
+2025-07-28 15:51:01,503 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.42&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:47:48&s=atmega328pb
+2025-07-28 15:51:01,503 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:01,504 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:01,504 - __main__ - INFO - Raw params: {'v': '253.42', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:47:48', 's': 'atmega328pb'}
+2025-07-28 15:51:01,506 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:01,510 - database - INFO - Inserted reading with ID: 27
+2025-07-28 15:51:01,510 - __main__ - INFO - Data saved successfully with ID: 27
+2025-07-28 15:51:01,511 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:01,511 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:01] "GET /meter?v=253.42&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:47:48&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:10,703 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:10,704 - __main__ - INFO - Method: GET
+2025-07-28 15:51:10,704 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.28&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:57&s=atmega328pb
+2025-07-28 15:51:10,704 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:10,705 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:10,705 - __main__ - INFO - Raw params: {'v': '253.28', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:47:57', 's': 'atmega328pb'}
+2025-07-28 15:51:10,707 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:10,711 - database - INFO - Inserted reading with ID: 28
+2025-07-28 15:51:10,711 - __main__ - INFO - Data saved successfully with ID: 28
+2025-07-28 15:51:10,712 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:10,712 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:10] "GET /meter?v=253.28&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:47:57&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:19,899 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:19,899 - __main__ - INFO - Method: GET
+2025-07-28 15:51:19,900 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.08&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:48:06&s=atmega328pb
+2025-07-28 15:51:19,900 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:19,900 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:19,901 - __main__ - INFO - Raw params: {'v': '253.08', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:06', 's': 'atmega328pb'}
+2025-07-28 15:51:19,904 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:19,908 - database - INFO - Inserted reading with ID: 29
+2025-07-28 15:51:19,908 - __main__ - INFO - Data saved successfully with ID: 29
+2025-07-28 15:51:19,909 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:19,909 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:19] "GET /meter?v=253.08&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:48:06&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:29,293 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:29,294 - __main__ - INFO - Method: GET
+2025-07-28 15:51:29,295 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.29&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:16&s=atmega328pb
+2025-07-28 15:51:29,295 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:29,296 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:29,296 - __main__ - INFO - Raw params: {'v': '253.29', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:16', 's': 'atmega328pb'}
+2025-07-28 15:51:29,298 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:29,303 - database - INFO - Inserted reading with ID: 30
+2025-07-28 15:51:29,303 - __main__ - INFO - Data saved successfully with ID: 30
+2025-07-28 15:51:29,303 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:29,304 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:29] "GET /meter?v=253.29&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:16&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:38,321 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:38,321 - __main__ - INFO - Method: GET
+2025-07-28 15:51:38,321 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.48&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:25&s=atmega328pb
+2025-07-28 15:51:38,321 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:38,322 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:38,322 - __main__ - INFO - Raw params: {'v': '253.48', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:25', 's': 'atmega328pb'}
+2025-07-28 15:51:38,324 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:38,332 - database - INFO - Inserted reading with ID: 31
+2025-07-28 15:51:38,332 - __main__ - INFO - Data saved successfully with ID: 31
+2025-07-28 15:51:38,332 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:38,333 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:38] "GET /meter?v=253.48&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:25&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:47,558 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:47,558 - __main__ - INFO - Method: GET
+2025-07-28 15:51:47,559 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.13&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:48:34&s=atmega328pb
+2025-07-28 15:51:47,559 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:47,559 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:47,560 - __main__ - INFO - Raw params: {'v': '253.13', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:34', 's': 'atmega328pb'}
+2025-07-28 15:51:47,562 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:47,567 - database - INFO - Inserted reading with ID: 32
+2025-07-28 15:51:47,568 - __main__ - INFO - Data saved successfully with ID: 32
+2025-07-28 15:51:47,568 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:47,569 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:47] "GET /meter?v=253.13&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:48:34&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:51:56,780 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:51:56,781 - __main__ - INFO - Method: GET
+2025-07-28 15:51:56,781 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.46&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:43&s=atmega328pb
+2025-07-28 15:51:56,782 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:51:56,782 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:51:56,782 - __main__ - INFO - Raw params: {'v': '253.46', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:43', 's': 'atmega328pb'}
+2025-07-28 15:51:56,783 - __main__ - INFO - Data validation successful
+2025-07-28 15:51:56,788 - database - INFO - Inserted reading with ID: 33
+2025-07-28 15:51:56,789 - __main__ - INFO - Data saved successfully with ID: 33
+2025-07-28 15:51:56,789 - __main__ - INFO - Request processed successfully
+2025-07-28 15:51:56,789 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:51:56] "GET /meter?v=253.46&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:43&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:06,251 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:06,252 - __main__ - INFO - Method: GET
+2025-07-28 15:52:06,252 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.54&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:52&s=atmega328pb
+2025-07-28 15:52:06,252 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:06,252 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:06,252 - __main__ - INFO - Raw params: {'v': '253.54', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:48:52', 's': 'atmega328pb'}
+2025-07-28 15:52:06,255 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:06,259 - database - INFO - Inserted reading with ID: 34
+2025-07-28 15:52:06,260 - __main__ - INFO - Data saved successfully with ID: 34
+2025-07-28 15:52:06,260 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:06,261 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:06] "GET /meter?v=253.54&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:48:52&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:15,221 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:15,221 - __main__ - INFO - Method: GET
+2025-07-28 15:52:15,222 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.71&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:02&s=atmega328pb
+2025-07-28 15:52:15,222 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:15,222 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:15,222 - __main__ - INFO - Raw params: {'v': '253.71', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:49:02', 's': 'atmega328pb'}
+2025-07-28 15:52:15,224 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:15,228 - database - INFO - Inserted reading with ID: 35
+2025-07-28 15:52:15,228 - __main__ - INFO - Data saved successfully with ID: 35
+2025-07-28 15:52:15,229 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:15,229 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:15] "GET /meter?v=253.71&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:02&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:24,581 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:24,582 - __main__ - INFO - Method: GET
+2025-07-28 15:52:24,582 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.51&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:11&s=atmega328pb
+2025-07-28 15:52:24,582 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:24,583 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:24,583 - __main__ - INFO - Raw params: {'v': '253.51', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:49:11', 's': 'atmega328pb'}
+2025-07-28 15:52:24,584 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:24,589 - database - INFO - Inserted reading with ID: 36
+2025-07-28 15:52:24,589 - __main__ - INFO - Data saved successfully with ID: 36
+2025-07-28 15:52:24,590 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:24,590 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:24] "GET /meter?v=253.51&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:11&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:35,073 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:35,073 - __main__ - INFO - Method: GET
+2025-07-28 15:52:35,074 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.50&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:20&s=atmega328pb
+2025-07-28 15:52:35,074 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:35,074 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:35,075 - __main__ - INFO - Raw params: {'v': '253.50', 'c': '0.044', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:49:20', 's': 'atmega328pb'}
+2025-07-28 15:52:35,077 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:35,081 - database - INFO - Inserted reading with ID: 37
+2025-07-28 15:52:35,082 - __main__ - INFO - Data saved successfully with ID: 37
+2025-07-28 15:52:35,082 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:35,083 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:35] "GET /meter?v=253.50&c=0.044&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:20&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:42,862 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:42,862 - __main__ - INFO - Method: GET
+2025-07-28 15:52:42,862 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.72&c=0.045&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:29&s=atmega328pb
+2025-07-28 15:52:42,862 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:42,862 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:42,863 - __main__ - INFO - Raw params: {'v': '253.72', 'c': '0.045', 'pf': '1.00', 'l': '0.11400', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:49:29', 's': 'atmega328pb'}
+2025-07-28 15:52:42,866 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:42,872 - database - INFO - Inserted reading with ID: 38
+2025-07-28 15:52:42,872 - __main__ - INFO - Data saved successfully with ID: 38
+2025-07-28 15:52:42,873 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:42,873 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:42] "GET /meter?v=253.72&c=0.045&pf=1.00&l=0.11400&k=12.66&f=50.0&d=28-07-25%2015:49:29&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:52:47,302 - database - INFO - Retrieved 38 readings
+2025-07-28 15:52:47,303 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:47] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:52:52,235 - __main__ - INFO - === INCOMING REQUEST ===
+2025-07-28 15:52:52,235 - __main__ - INFO - Method: GET
+2025-07-28 15:52:52,236 - __main__ - INFO - Full URL: http://2e40139af09b.ngrok-free.app/meter?v=253.37&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:49:38&s=atmega328pb
+2025-07-28 15:52:52,236 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-07-28 15:52:52,236 - __main__ - INFO - User-Agent: Unknown
+2025-07-28 15:52:52,236 - __main__ - INFO - Raw params: {'v': '253.37', 'c': '0.044', 'pf': '1.00', 'l': '0.11300', 'k': '12.66', 'f': '50.0', 'd': '28-07-25 15:49:38', 's': 'atmega328pb'}
+2025-07-28 15:52:52,238 - __main__ - INFO - Data validation successful
+2025-07-28 15:52:52,241 - database - INFO - Inserted reading with ID: 39
+2025-07-28 15:52:52,241 - __main__ - INFO - Data saved successfully with ID: 39
+2025-07-28 15:52:52,242 - __main__ - INFO - Request processed successfully
+2025-07-28 15:52:52,242 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:52:52] "GET /meter?v=253.37&c=0.044&pf=1.00&l=0.11300&k=12.66&f=50.0&d=28-07-25%2015:49:38&s=atmega328pb HTTP/1.1" 200 -
+2025-07-28 15:53:19,695 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:19] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:53:21,750 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:53:23,801 - database - INFO - Retrieved 39 readings
+2025-07-28 15:53:23,803 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:23] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:53:44,498 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:44] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:53:46,546 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:46] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:53:48,628 - database - INFO - Retrieved 39 readings
+2025-07-28 15:53:48,630 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:53:48] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-07-28 15:54:01,013 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:54:01] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:54:03,092 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:54:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:54:03,247 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:54:03] "GET /health HTTP/1.1" 200 -
+2025-07-28 15:54:05,311 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:54:05] "GET /api/stats HTTP/1.1" 200 -
+2025-07-28 15:54:07,375 - database - INFO - Retrieved 39 readings
+2025-07-28 15:54:07,376 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2025 15:54:07] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:40:24,158 - database - INFO - Database initialized successfully
+2025-08-03 22:40:24,186 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.113:8080
+2025-08-03 22:40:24,189 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-03 22:40:50,151 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:40:50] "GET /health HTTP/1.1" 200 -
+2025-08-03 22:40:52,211 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:40:52] "GET /api/stats HTTP/1.1" 200 -
+2025-08-03 22:40:54,254 - database - INFO - Retrieved 39 readings
+2025-08-03 22:40:54,256 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:40:54] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:41:11,848 - database - INFO - Retrieved 39 readings
+2025-08-03 22:41:11,849 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:41:11] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:41:27,787 - database - INFO - Retrieved 39 readings
+2025-08-03 22:41:27,789 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:41:27] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:43:24,897 - database - INFO - Retrieved 39 readings
+2025-08-03 22:43:24,898 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:43:24] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:47:30,260 - __main__ - INFO - === INCOMING REQUEST ===
+2025-08-03 22:47:30,261 - __main__ - INFO - Method: GET
+2025-08-03 22:47:30,261 - __main__ - INFO - Full URL: http://a44642ddf2a9.ngrok-free.app/meter?volt=230.50&curr=8.750&pf=0.92&load=2.01560&kwh=1250.75&freq=50.2&dt=03-08-2025%2022:30:00&retry=0&source=atmega328pb
+2025-08-03 22:47:30,261 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-08-03 22:47:30,262 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-08-03 22:47:30,262 - __main__ - INFO - Raw params: {'volt': '230.50', 'curr': '8.750', 'pf': '0.92', 'load': '2.01560', 'kwh': '1250.75', 'freq': '50.2', 'dt': '03-08-2025 22:30:00', 'retry': '0', 'source': 'atmega328pb'}
+2025-08-03 22:47:30,262 - __main__ - ERROR - Missing required fields: v (voltage), c (current), k (kWh)
+2025-08-03 22:47:30,263 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:47:30] "[31m[1mGET /meter?volt=230.50&curr=8.750&pf=0.92&load=2.01560&kwh=1250.75&freq=50.2&dt=03-08-2025%2022:30:00&retry=0&source=atmega328pb HTTP/1.1[0m" 400 -
+2025-08-03 22:48:05,491 - __main__ - INFO - === INCOMING REQUEST ===
+2025-08-03 22:48:05,492 - __main__ - INFO - Method: GET
+2025-08-03 22:48:05,492 - __main__ - INFO - Full URL: http://a44642ddf2a9.ngrok-free.app/meter?v=230.50&c=8.750&pf=0.92&l=2.01560&k=1250.75&f=50.2&d=03-08-2025%2022:30:00&r=0&s=atmega328pb
+2025-08-03 22:48:05,493 - __main__ - INFO - Remote IP: 127.0.0.1
+2025-08-03 22:48:05,493 - __main__ - INFO - User-Agent: curl/8.13.0
+2025-08-03 22:48:05,494 - __main__ - INFO - Raw params: {'v': '230.50', 'c': '8.750', 'pf': '0.92', 'l': '2.01560', 'k': '1250.75', 'f': '50.2', 'd': '03-08-2025 22:30:00', 'r': '0', 's': 'atmega328pb'}
+2025-08-03 22:48:05,496 - __main__ - INFO - Data validation successful
+2025-08-03 22:48:05,500 - database - INFO - Inserted reading with ID: 40
+2025-08-03 22:48:05,501 - __main__ - INFO - Data saved successfully with ID: 40
+2025-08-03 22:48:05,501 - __main__ - INFO - Request processed successfully
+2025-08-03 22:48:05,502 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:48:05] "GET /meter?v=230.50&c=8.750&pf=0.92&l=2.01560&k=1250.75&f=50.2&d=03-08-2025%2022:30:00&r=0&s=atmega328pb HTTP/1.1" 200 -
+2025-08-03 22:48:22,466 - database - INFO - Retrieved 40 readings
+2025-08-03 22:48:22,467 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:48:22] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:48:40,016 - database - INFO - Retrieved 40 readings
+2025-08-03 22:48:40,017 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:48:40] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:52:58,175 - database - INFO - Retrieved 40 readings
+2025-08-03 22:52:58,176 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:52:58] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:53:51,759 - database - INFO - Retrieved 40 readings
+2025-08-03 22:53:51,761 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:53:51] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 22:53:56,704 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:53:56] "GET /health HTTP/1.1" 200 -
+2025-08-03 22:53:58,745 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:53:58] "GET /api/stats HTTP/1.1" 200 -
+2025-08-03 22:54:00,815 - database - INFO - Retrieved 40 readings
+2025-08-03 22:54:00,816 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 22:54:00] "GET /api/data?limit=10000 HTTP/1.1" 200 -
+2025-08-03 23:13:57,237 - database - INFO - Retrieved 40 readings
+2025-08-03 23:13:57,239 - werkzeug - INFO - 127.0.0.1 - - [03/Aug/2025 23:13:57] "GET /api/data?limit=10000 HTTP/1.1" 200 -

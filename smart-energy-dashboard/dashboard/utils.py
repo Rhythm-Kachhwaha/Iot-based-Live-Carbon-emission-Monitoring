@@ -10,7 +10,8 @@ import os
 
 # Configuration
 DB_FILE = "data/meter_data.db"
-FLASK_API_URL = "http://localhost:8080"
+FLASK_API_URL = "https://iot-carbon-emission-backend.onrender.com"
+
 EMISSION_FACTOR = 0.82  # kg CO₂ per kWh
 FREQ_RANGE = (48.0, 52.0)  # Hz
 

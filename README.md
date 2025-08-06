@@ -1,6 +1,6 @@
 # Smart Energy Dashboard - Complete Setup Guide
 
-## 🚀 Quick Start Installation
+
 
 ### 1. Project Structure Setup
 

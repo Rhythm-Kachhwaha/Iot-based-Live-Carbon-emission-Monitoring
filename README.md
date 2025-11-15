@@ -293,6 +293,3 @@ CMD ["python", "app.py"]
 
 ---
 
-## 🌟 System Ready!
-
-Your complete smart energy dashboard system is now ready to monitor and analyze energy consumption from your IoT smart meter with real-time carbon footprint calculations!

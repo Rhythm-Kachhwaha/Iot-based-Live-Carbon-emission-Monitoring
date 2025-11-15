@@ -114,10 +114,10 @@ streamlit run app.py
 
 Once both services are running:
 
-- **🔌 Flask API**: http://localhost:8080
-- **📊 Dashboard**: http://localhost:8501
-- **🏥 Health Check**: http://localhost:8080/health
-- **🧪 Test Endpoint**: http://localhost:8080/test
+- ** Flask API**: http://localhost:8080
+- ** Dashboard**: http://localhost:8501
+- ** Health Check**: http://localhost:8080/health
+- ** Test Endpoint**: http://localhost:8080/test
 
 ### 5. IoT Device Integration
 
@@ -140,23 +140,23 @@ GET http://localhost:8080/meter?v=230.5&c=8.750&pf=0.92&l=2.01560&k=1250.75&f=50
 ### 6. Features Overview
 
 #### 🔌 Flask Backend Features:
-- ✅ Auto-creates SQLite database and tables
-- ✅ Real-time data validation and storage
-- ✅ RESTful API endpoints for data access
-- ✅ CSV export functionality
-- ✅ System health monitoring
-- ✅ Comprehensive logging
-- ✅ Error handling and recovery
+-  Auto-creates SQLite database and tables
+-  Real-time data validation and storage
+-  RESTful API endpoints for data access
+-  CSV export functionality
+-  System health monitoring
+-  Comprehensive logging
+-  Error handling and recovery
 
 #### 📊 Dashboard Features:
-- ✅ Real-time energy metrics display
-- ✅ Carbon footprint calculations
-- ✅ Interactive historical charts
-- ✅ Multi-device support
-- ✅ Data quality monitoring
-- ✅ Export capabilities (CSV)
-- ✅ Auto-refresh functionality
-- ✅ Green eco-friendly theme
+-  Real-time energy metrics display
+-  Carbon footprint calculations
+-  Interactive historical charts
+-  Multi-device support
+-  Data quality monitoring
+-  Export capabilities (CSV)
+-  Auto-refresh functionality
+-  Green eco-friendly theme
 
 ### 7. Database Schema
 
